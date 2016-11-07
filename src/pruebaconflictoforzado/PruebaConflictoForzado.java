@@ -19,6 +19,7 @@ public class PruebaConflictoForzado {
         /*
             *modifico el comentario
         */
+        // añadido otro comentario
     }
     
 }
